@@ -2,7 +2,7 @@
 import React, { Component } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
-import
+import moi from "./assets/img/moi.jpg"; // Importation d'une image locale
 // Création d'une classe App qui étend React.Component
 // 👉 Une classe permet d'utiliser un state et des méthodes de cycle de vie
 class App extends Component {
